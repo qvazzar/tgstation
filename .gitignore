@@ -8,6 +8,9 @@
 /tmp/**/*
 /cache/**/*
 
+#Ignore everything in config folder
+/config/**/*
+
 #Ignore byond config folder.
 /cfg/**/*
 
