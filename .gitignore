@@ -7,6 +7,7 @@
 /data/**/*
 /tmp/**/*
 /cache/**/*
+data.zip
 
 #Ignore everything in config folder
 /config/**/*
