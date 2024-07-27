@@ -10,6 +10,7 @@
 
 #Ignore everything in config folder
 /config/**/*
+config.zip
 
 #Ignore byond config folder.
 /cfg/**/*
