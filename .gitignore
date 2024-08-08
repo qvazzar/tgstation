@@ -10,8 +10,13 @@
 data.zip
 
 #Ignore everything in config folder
-/config/**/*
+config/**/*
 config.zip
+config/admins.txt
+/tgstation/config/**/*
+
+#Ignore startup script
+start.sh
 
 #Ignore byond config folder.
 /cfg/**/*
