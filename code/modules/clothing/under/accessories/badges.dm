@@ -176,19 +176,19 @@
 	display = "This employee has been screened for negative mental traits to an acceptable level of accuracy, and is approved for the NT Cyborg program as an alternative to medical resuscitation."
 
 /obj/item/clothing/accessory/pride
-	name = "pride pin"
-	desc = "A Nanotrasen Diversity & Inclusion Center-sponsored holographic pin to show off your pride, reminding the crew of their unwavering commitment to equity, diversity, and inclusion!"
+	name = "accessory pin"
+	desc = "Holographic badge with a cool logo. He who knows knows their meaning."
 	icon_state = "pride"
 	obj_flags = UNIQUE_RENAME | INFINITE_RESKIN
 	unique_reskin = list(
-		"Rainbow Pride" = "pride",
-		"Bisexual Pride" = "pride_bi",
-		"Pansexual Pride" = "pride_pan",
-		"Asexual Pride" = "pride_ace",
-		"Non-binary Pride" = "pride_enby",
-		"Transgender Pride" = "pride_trans",
-		"Intersex Pride" = "pride_intersex",
-		"Lesbian Pride" = "pride_lesbian",
+		"Elysium Pin" = "pride",
+		"SCP Pin" = "pride_bi",
+		"Anarhi Pin" = "pride_pan",
+		"NT Pin" = "pride_ace",
+		"Sindi Pin" = "pride_enby",
+		"288 Pin" = "pride_trans",
+		"Dota Pin" = "pride_intersex",
+		"WK Pin" = "pride_lesbian",
 	)
 
 /obj/item/clothing/accessory/pride/setup_reskinning()
