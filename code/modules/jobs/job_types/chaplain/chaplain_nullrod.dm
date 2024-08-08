@@ -574,7 +574,6 @@
 	attack_verb_simple = list("smash", "slam", "whack", "thwack")
 	icon = 'icons/obj/weapons/staff.dmi'
 	icon_state = "bostaff0"
-	base_icon_state = "bostaff"
 	inhand_icon_state = "bostaff0"
 	worn_icon_state = "bostaff0"
 	lefthand_file = 'icons/mob/inhands/weapons/staves_lefthand.dmi'
