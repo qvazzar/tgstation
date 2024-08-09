@@ -13,6 +13,9 @@ data.zip
 /config/**/*
 config.zip
 
+#Ignore startup script
+start.sh
+
 #Ignore byond config folder.
 /cfg/**/*
 
